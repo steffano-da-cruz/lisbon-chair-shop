@@ -311,4 +311,21 @@ footer {
   .container {
     width: 50rem;
   }
+
+  .grid-3-cols {
+    grid-template-columns: 1fr;
+    row-gap: 5rem;
+  }
+
+  .hero-box {
+    padding: 0;
+  }
+
+  .features-box {
+    text-align: center;
+  }
+
+  .features-text {
+    padding: 0 5rem;
+  }
 }
