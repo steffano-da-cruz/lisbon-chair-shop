@@ -314,7 +314,7 @@ footer {
 
   .grid-3-cols {
     grid-template-columns: 1fr;
-    row-gap: 2rem;
+    row-gap: 5rem;
     justify-items: center;
   }
 
@@ -328,6 +328,10 @@ footer {
 
   .features-box {
     text-align: center;
+  }
+
+  .features-name {
+    font-size: 2.4rem;
   }
 
   .features-text {
