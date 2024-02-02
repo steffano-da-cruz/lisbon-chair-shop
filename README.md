@@ -2,7 +2,7 @@
 ![Product Preview](/assets/github/lisbon-chair-shop-readme.png)
 
 ## 💻 About the project
-A simple web page where the user can buy chairs. It was made using Flexbox and Grid.  Dont't forget to give it a try on mobile because this webpage is responsive!
+A simple web page where the user can buy chairs. It was made using Flexbox and Grid.  Dont't forget to give it a try on mobile because this web page is responsive!
 
 ## 🛠 Technologies used
 - HTML5
