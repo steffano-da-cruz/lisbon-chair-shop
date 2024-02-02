@@ -1,4 +1,4 @@
-# lisbon-chair-shop
+# Lisbon Chair Shop
 ![Product Preview](/assets/images/lisbon-chair-shop-readme.png)
 
 ## 💻 About the project
