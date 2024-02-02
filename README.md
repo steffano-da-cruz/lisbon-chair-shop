@@ -2,7 +2,7 @@
 ![Product Preview](/assets/github/lisbon-chair-shop-readme.png)
 
 ## 💻 About the project
-A simple web page where you can buy chairs. 
+A simple web page where you can buy chairs.  Dont't forget to give it a try on mobile because this webpage is responsive!
 
 ## 🛠 Technologies used
 - HTML5
