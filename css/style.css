@@ -314,7 +314,12 @@ footer {
 
   .grid-3-cols {
     grid-template-columns: 1fr;
-    row-gap: 5rem;
+    row-gap: 2rem;
+    justify-items: center;
+  }
+
+  .hero-section {
+    gap: 5rem;
   }
 
   .hero-box {
@@ -327,5 +332,19 @@ footer {
 
   .features-text {
     padding: 0 5rem;
+  }
+
+  .testimonial-box {
+    grid-column: 1 / 2;
+    align-self: center;
+    text-align: center;
+  }
+
+  .testimonial-title {
+    font-size: 2.5rem;
+  }
+
+  .testimonial-text {
+    font-size: 1.5rem;
   }
 }
