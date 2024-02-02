@@ -1,5 +1,5 @@
 # Lisbon Chair Shop
-![Product Preview](/assets/images/lisbon-chair-shop-readme.png)
+![Product Preview](/assets/github/lisbon-chair-shop-readme.png)
 
 ## 💻 About the project
 A simple web page where you can buy chairs. 
